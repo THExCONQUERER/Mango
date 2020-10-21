@@ -1,0 +1,1 @@
+var stone = createSprite(200, 200, 100, 100);
